@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{C5C42ADE-F2D2-4814-8B6F-4DA8D8D7E416}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AddStudent.aspx.cs">
+    <Files>
+      <File FileName="Models/CoopStudent.cs" Line="1" Column="1" />
+      <File FileName="App_Themes/SiteStyles.css" />
+      <File FileName="Models/FulltimeStudent.cs" />
+      <File FileName="RegisterCourse.aspx" />
+      <File FileName="AddStudent.aspx" />
+      <File FileName="AddStudent.aspx.cs" Line="39" Column="76" />
+      <File FileName="RegisterCourse.aspx.cs" Line="62" Column="90" />
+      <File FileName="Models/ParttimeStudent.cs" />
+      <File FileName="Models/Student.cs" />
+      <File FileName="Models/Course.cs" />
+      <File FileName="Models/Helper.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="lab8" expanded="True">
+            <Node name="lab8" expanded="True">
+              <Node name="App_Themes" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="AddStudent.aspx" expanded="True">
+                <Node name="AddStudent.aspx.cs" selected="True" />
+              </Node>
+              <Node name="RegisterCourse.aspx" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.lab8 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
